@@ -9,3 +9,6 @@ I have professional experience on working with frontends framework such as NextJ
 Github:https://github.com/gaurav9479
 I am gaurav B.Tech Materials Engineering MNNIT Allahabad i am trying to learn open source contribuion through OPENCODE-25
 
+*Ashutosh kesarwani*
+Github:https://github.com/Lucifer-0612
+I am Ashutosh B.Tech Computer Science and Engineering HIT Haldia. I am trying to learn open source contribuion through OPENCODE-25.
